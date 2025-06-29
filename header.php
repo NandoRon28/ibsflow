@@ -24,7 +24,7 @@ if ($isLoggedIn) {
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        :root {--primary: #01579B;--secondary: #40C4FF;--accent: #ffffff;}
+        :root {--primary: #000;--secondary: #01579B;--accent: #ffffff;}
         body {font-family: 'Poppins', sans-serif;background-color: #f5f6f0;color: #333;line-height: 1.6;}
         [dir="rtl"] {text-align: right;}
         [dir="rtl"] .navbar-nav {flex-direction: row-reverse;margin: 0 auto;}

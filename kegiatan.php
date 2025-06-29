@@ -198,8 +198,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $isLoggedIn && $userRole === 'penge
         left: 0;
         width: 100%;
         height: 100%;
-        background: url('https://www.transparenttextures.com/patterns/light-noise.png');
-        opacity: 0.05;
+        background: url('img/logo.png');
+        opacity: 0.8;
         z-index: -1;
     }
 
